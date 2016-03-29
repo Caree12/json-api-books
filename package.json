@@ -1,0 +1,22 @@
+{
+  "name": "json-api-books",
+  "version": "1.0.0",
+  "description": "This is an app to pull the top 25 books world-wide and give it all back to you in a json format using node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caree12/json-api-books.git"
+  },
+  "author": "Carrie Wladis and Johannes Stein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Caree12/json-api-books/issues"
+  },
+  "homepage": "https://github.com/Caree12/json-api-books#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

@@ -23,5 +23,55 @@
 		"name" : "THE NIGHTINGALE",
 		"author" : "Kristin Hannah",
 		"date" : "February 3, 2015"
+	},
+	{
+		"name" : "THE GANGSTER",
+		"author" : "Clive Cussler and Justin Scott",
+		"date" : "March 1, 2016"
+	},
+	{
+		"name" : "THE STEEL KISS",
+		"author" : "Jeffery Deaver",
+		"date" : "March 8, 2016"
+	},
+	{
+		"name" : "THE WATERS OF ETERNAL YOUTH",
+		"author" : "Donna Leon",
+		"date" : "March 8, 2016"
+	},
+	{
+		"name" : "COMETH THE HOUR",
+		"author" : "Jeffery Archer",
+		"date" : "February 16, 2016"
+	},
+	{
+		"name" : "GO SET A WATCHMAN",
+		"author" : "Harper Lee",
+		"date" : "July 14, 2015"
+	},
+	{
+		"name" : "CLAWBACK",
+		"author" : "J. A. Jance",
+		"date" : "March 8, 2016"
+	},
+	{
+		"name" : "THE WIDOW",
+		"author" : "Fiona Barton",
+		"date" : "February 16, 2016"
+	},
+	{
+		"name" : "MY NAME IS LUCY BARTON",
+		"author" : "Elizabeth Stout",
+		"date" : "January 12, 2016"
+	},
+	{
+		"name" : "A GIRL'S GUIDE TO MOVING ON",
+		"author" : "Debbie Macomber",
+		"date" : "February 23, 2016"
+	},
+	{
+		"name" : "A FEW OF THE GIRLS",
+		"author" : "Maeve Binchy",
+		"date" : "March 1, 2016"
 	}
 ]
