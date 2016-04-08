@@ -1,0 +1,29 @@
+<div class="">
+	<div class="">
+		<div class="header">Book List<span class="count"></span></div>
+			<ul class="books-list hidden">
+				<% allBooks.forEach(function(book){ %>
+					<li>
+						<div class="product">
+							<p class="productName"><%- book.name %></p>
+						</div>
+
+						<div class="product">
+							<p class="productName"><%- book.author %></p>
+						</div>
+
+						<div class="product">
+							<p class="productName"><%- book.date %></p>
+						</div>
+					</li>
+				<% }); %>
+			</ul>
+
+
+		<div class="">
+			<input type="text"></input>
+		</div>
+
+
+	</div>	
+</div>
