@@ -20,15 +20,17 @@
 					console.log(data);
 					newBook = data;
 
-					var name = newBook.book;
-					var author = newBook.name;
+					var name = newBook.name;
+					var author = newBook.author;
 					var date = newBook.date;
 
 					$('ul').append('<li>' + name + '<br>' + author + '<br>' + date +'</li>');
+	      	$('.error').empty();//removes child elements
+
 
 	      },
 	      error: function(req, error, res){ 
-      		console.log(data);
+	      	$('.error').append('<p>We already have that book. Choose another one.</p>')
 	      }	
 	    });
 
